@@ -1,0 +1,27 @@
+{
+  "name": "request-header",
+  "version": "1.0.0",
+  "description": "Request Header challenge on FCC",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^3.2.6",
+    "async": "^0.2.10",
+    "git-it": "^1.6.9",
+    "socket.io": "^0.9.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fisker112/request-header.git"
+  },
+  "author": "ady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fisker112/request-header/issues"
+  },
+  "homepage": "https://github.com/fisker112/request-header#readme"
+}
