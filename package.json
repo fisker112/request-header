@@ -4,7 +4,7 @@
   "description": "Request Header challenge on FCC",
   "main": "server.js",
   "dependencies": {
-    "express": "^3.2.6",
+    "express": "^4.14.0",
     "async": "^0.2.10",
     "git-it": "^1.6.9",
     "socket.io": "^0.9.17"
